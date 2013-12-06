@@ -5,10 +5,13 @@
   </metadata>
   <manifest>
     <item href="sf-social-entrepreneurship-book-b4aa4994-70b7-4a7b-b3e4-0e3c4e0ac03d-nav.html" id="sf-social-entrepreneurship-book-b4aa4994-70b7-4a7b-b3e4-0e3c4e0ac03d-nav.html" media-type="application/xhtml+xml" properties="nav"/>
-    <item href="module1-e6361cfa-e979-4ca3-9c1f-35b0a296adb3.html" id="module1-e6361cfa-e979-4ca3-9c1f-35b0a296adb3.html" media-type="application/xhtml+xml"/>
-    <item href="untitled-e674b181-6d52-4d49-b97b-931362ab6625.html" id="untitled-e674b181-6d52-4d49-b97b-931362ab6625.html" media-type="application/xhtml+xml"/>
-    <item href="more-about-the-editor-332d87d0-959b-4d5d-81dd-35f3b71ad19e.html" id="more-about-the-editor-332d87d0-959b-4d5d-81dd-35f3b71ad19e.html" media-type="application/xhtml+xml"/>
-  <item href="my-new-thing-7d07614d-347b-4360-aaf2-e4bfca224ae3.html" id="my-new-thing-7d07614d-347b-4360-aaf2-e4bfca224ae3.html" media-type="application/xhtml+xml"/><item href="../resources/8ad3a82f5303ddfbc858c30ecddf74ad58fc9fd6" id="../resources/8ad3a82f5303ddfbc858c30ecddf74ad58fc9fd6" media-type="image/gif"/><item href="../resources/662f0defdb73540dc796517f69e584e67b59a6d7" id="../resources/662f0defdb73540dc796517f69e584e67b59a6d7" media-type="image/gif"/></manifest>
+    <item href="module1-e6361cfa-e979-4ca3-9c1f-35b0a296adb3.html" id="module1-e6361cfa-e979-4ca3-9c1f-35b0a296adb3.html" media-type="application/xhtml+xml" properties="mathml"/>
+    <item href="untitled-e674b181-6d52-4d49-b97b-931362ab6625.html" id="untitled-e674b181-6d52-4d49-b97b-931362ab6625.html" media-type="application/xhtml+xml" properties="mathml"/>
+    <item href="more-about-the-editor-332d87d0-959b-4d5d-81dd-35f3b71ad19e.html" id="more-about-the-editor-332d87d0-959b-4d5d-81dd-35f3b71ad19e.html" media-type="application/xhtml+xml" properties="mathml"/>
+    <item href="my-new-thing-7d07614d-347b-4360-aaf2-e4bfca224ae3.html" id="my-new-thing-7d07614d-347b-4360-aaf2-e4bfca224ae3.html" media-type="application/xhtml+xml" properties="mathml"/>
+    <item href="../resources/8ad3a82f5303ddfbc858c30ecddf74ad58fc9fd6" id="../resources/8ad3a82f5303ddfbc858c30ecddf74ad58fc9fd6" media-type="image/gif"/>
+    <item href="../resources/662f0defdb73540dc796517f69e584e67b59a6d7" id="../resources/662f0defdb73540dc796517f69e584e67b59a6d7" media-type="image/gif"/>
+  </manifest>
   <spine>
     <itemref idref="module1-e6361cfa-e979-4ca3-9c1f-35b0a296adb3.html"/>
     <itemref idref="untitled-e674b181-6d52-4d49-b97b-931362ab6625.html"/>
