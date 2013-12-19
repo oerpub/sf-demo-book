@@ -14,7 +14,7 @@
   </manifest>
   <spine>
     <itemref idref="module1-e6361cfa-e979-4ca3-9c1f-35b0a296adb3.html"/>
-    <itemref idref="untitled-e674b181-6d52-4d49-b97b-931362ab6625.html"/>
     <itemref idref="more-about-the-editor-332d87d0-959b-4d5d-81dd-35f3b71ad19e.html"/>
+    <itemref idref="untitled-e674b181-6d52-4d49-b97b-931362ab6625.html"/>
   </spine>
 </package>
